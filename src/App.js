@@ -47,7 +47,7 @@ class App extends Component {
               <thead>
                 <tr>
                   <th>Title</th>
-                  <th>Computer</th>
+                  <th>Composer</th>
                   <th>Opus</th>
                   <th>Key</th>
                   <th>Category</th>
